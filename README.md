@@ -1,6 +1,6 @@
 # Trello-Clone
 
-URL: https://trell-9kcxl2fgi-oanaprds-projects.vercel.app/
+URL: https://trell-oh.vercel.app/
 
 Core features:
 - Users should be able to create multiple boards, but limited to one project.
