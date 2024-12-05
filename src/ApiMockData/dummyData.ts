@@ -9,7 +9,7 @@ export const ApiMockResponse: IBoard[] = [
         id: 1651319552926.0933,
         title: "Task1",
         labels: [{ color: "#cf61a1", text: "Urgent" }],
-        date: "2024-05-05",
+        date: "2024-12-05",
         tasks: [
           { id: 1651319625559.8025, completed: true, text: "Task1_subtask1" },
           { id: 1651319629650.8945, completed: true, text: "Task1_subtask2" },
@@ -33,7 +33,7 @@ export const ApiMockResponse: IBoard[] = [
       {
         id: 1651319672685.5078,
         title: "Task3",
-        labels: [{ color: "#9975bd", text: "Database" }],
+        labels: [{ color: "#9975bd", text: "School" }],
         date: "",
         tasks: [
           { id: 1651319728301.3855, completed: false, text: "restore db" },
@@ -48,8 +48,8 @@ export const ApiMockResponse: IBoard[] = [
       {
         id: 1651319677070.0732,
         title: "Task4",
-        labels: [{ color: "#8da377", text: "figma" }],
-        date: "2024-05-06",
+        labels: [{ color: "#8da377", text: "Work" }],
+        date: "2024-12-06",
         tasks: [],
       },
     ],
@@ -61,8 +61,8 @@ export const ApiMockResponse: IBoard[] = [
       {
         id: 1651319680948.0479,
         title: "Task5",
-        labels: [{ color: "#4fcc25", text: "Payment API" }],
-        date: "2024-05-07",
+        labels: [{ color: "#4fcc25", text: "Project" }],
+        date: "2024-12-07",
         tasks: [
           { id: 1651319820180.9648, completed: false, text: "GraphQl" },
           { id: 1651319833779.3252, completed: true, text: "Restful API" },
